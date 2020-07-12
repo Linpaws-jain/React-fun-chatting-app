@@ -1,7 +1,5 @@
 import React from 'react';
 
-import ScrollToBottom from 'react-scroll-to-bottom';
-
 import ReactEmoji from 'react-emoji';
 
 import './Message.css';
